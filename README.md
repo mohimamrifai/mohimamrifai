@@ -2,6 +2,7 @@
   <h4>Hello, My Name Is</h4>
   <h1>Mohammad Imam Rifai</h1>
   <h4>Programmer Otodidak | Fullstack Web Developer | Freelancer</h4>
+  <p>I'm currently seeking opportunities as a Web Developer. Feel free to connect with me via LinkedIn or contact me directly at imamrifaibisnis@gmail.com</p>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mohammad-imam-rifai-79bab9265/">
@@ -36,3 +37,23 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg" title="prisma" alt="prisma" width="50" height="50"/>&nbsp;
 </div>
 </div>
+
+<div align="center">
+  ---
+
+### :fire: My Stats :
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mohimamrifai&show_icons=true&theme=transparent)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohimamrifai)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohimamrifai)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
+
+
+
+
+
+
+
+
